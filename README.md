@@ -127,10 +127,10 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
+ Ask anything at <a href="https://github.com/hoodmentality/hoodmentality/discussions/new/choose">Discussions</a> 
 
 
-<!--
+
 ```
 ███████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ███████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -153,4 +153,4 @@
 █████████████         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀      '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
--->
+
