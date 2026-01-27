@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/forks/hoodmentality/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
 
-<p align="center"> <a href="https://github.com/hoodmentality/github-profile-trophy"><img width="936" src="https://github.com/hoodmentality-attachments/assets/54de15a3-d907-4a50-8117-170aae74d1cd"></a> </p>
+<p align="center"> <img width="936" src="https://github.com/hoodmentality-attachments/assets/54de15a3-d907-4a50-8117-170aae74d1cd"> </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
